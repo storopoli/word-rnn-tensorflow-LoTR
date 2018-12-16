@@ -24,7 +24,7 @@ python sample.py
 # Sample output
 
 ### Word-RNN
-```text
+~~~~
 His face passed over him. 'What do you know already?'
 
 'Perhaps,' said Éomer. 'For Boromir had one else many tales nor friendhip would grow over the fields of the noble Riders?' 
@@ -34,4 +34,4 @@ His face passed over him. 'What do you know already?'
 There was another stern a image of mark in the shadows of Isengard would creep the trail of the Moon, Aragorn went to the door, like a banner, silent and on deep sunlight came out to Tol heart; for the one on loomed up a vision of his helm and sat silent in the plain shadows of Faramir’s helm was left clean slopes, and the out-wall sky was empty and like a light of Huorns had already carried out a long sloping land. 
 
 There was a long fold of the East away beyond the north the gates and clustered tall and fell; shaped chill upon the open sun. Now the mighty grey left stands rode, wriggling silent. After Sam was moving apart from his shoulders. Tonight he was named or gloomy up either they came, and stabbed mostly as they could.
-```
+~~~~
